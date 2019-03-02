@@ -12,7 +12,7 @@ FIRSTS STEPS:
 
 -Important to mention: The api generator is not going to cause any damage to your project, if the code is changed we will not be responsible of any damage taken.
 
--Please any request or complaints send it to pabriv23@gamil.com
+-Please any request or complaints send it to pabriv23@gmail.com
 
 COMMENTS OF THE PROJECT:
 
